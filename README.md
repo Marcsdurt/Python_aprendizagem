@@ -50,3 +50,5 @@ Duas formas de combinar strings e variáveis:
 ---
 
 *Estudando Python do zero* 🚀
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png?_=20250701090410" width="50" />
