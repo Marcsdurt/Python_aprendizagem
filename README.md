@@ -1,21 +1,9 @@
-# 🐍 Aprendizagem Python
+# 🐍 Aprendizagem Python <img src="https://i.pinimg.com/avif/1200x/bb/c3/e3/bbc3e3009e45bfb56761ae07227a5856.avf" width="50" />
 
 Repositório criado para registrar meu progresso nos estudos de Python. Aqui você encontra exercícios e exemplos práticos organizados por tema.
 
 ---
 
-## 📁 Estrutura dos Arquivos
-
-| Arquivo | Descrição |
-|---|---|
-| `hello.py` | Primeiro programa — saída de texto com `print()` |
-| `tipos_de_dados.py` | Tipos primitivos: int, float, bool e string |
-| `variaveis_constantes.py` | Declaração de variáveis, atribuição múltipla e constantes |
-| `conversao_de_tipos.py` | Conversão entre tipos com `int()`, `float()` e `str()` |
-| `funcao_saida_entrada.py` | Entrada de dados com `input()` e saída com `print()` |
-| `concatenacao.py` | Concatenação de strings com `+` e f-strings |
-
----
 
 ## 📚 Conteúdo por Tema
 
@@ -45,20 +33,6 @@ Duas formas de combinar strings e variáveis:
 
 ---
 
-## 🛠️ Como Executar
-
-Você precisa ter o Python 3 instalado. Para rodar qualquer arquivo:
-
-```bash
-python nome_do_arquivo.py
-```
-
-Exemplo:
-```bash
-python hello.py
-```
-
----
 
 ## 📈 Progresso
 
